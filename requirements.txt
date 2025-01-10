@@ -1,0 +1,6 @@
+streamlit
+flask
+transformers
+vaderSentiment
+pandas
+requests
